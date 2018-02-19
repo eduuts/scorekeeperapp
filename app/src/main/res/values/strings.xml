@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Court counter</string>
+    <string name="setvalueminutes">You have to set a value for minutes!</string>
+    <string name="setvalueseconds">You have to set a value for seconds!</string>
+    <string name="secrem">Seconds remaining : </string>
+    <string name="done">Done! </string>
+    <string name="firstwin">First team wins!</string>
+    <string name="secondwin">Second team wins!</string>
+    <string name="draw">Draw! </string>
+    <string name="FirstTeam">First Team</string>
+    <string name="threepts">+3 Points</string>
+    <string name="twopts">+2 Points </string>
+    <string name="freethrow">Free Throw</string>
+    <string name="SecondTeam">Second Team</string>
+    <string name="TimerStart">Timer Start</string>
+    <string name="Undo">Undo</string>
+    <string name="Minutes">Minutes</string>
+    <string name="Seconds">Seconds</string>
+    <string name="Reset">Reset</string>
+</resources>
